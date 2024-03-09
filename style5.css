@@ -49,3 +49,12 @@ margin: 1rem 0rem;
 }
 
 
+#NO:hover{
+    transform: translateX(100px);
+}
+#NO:active{
+    transform: scale(0);
+}
+#YES:hover{
+    transform: scale(1.2);
+}
